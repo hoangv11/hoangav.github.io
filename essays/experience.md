@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting on Software Engineering II"
+title: "Experience of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-19
 published: true
